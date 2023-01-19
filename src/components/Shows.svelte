@@ -9,15 +9,15 @@
 
 <!-- Shows -->
 <div class="grid grid-cols-2 md:grid-cols-6 gap-4 p-4">
-	<div>
+	<a href="/good">
 		<img
 			src="https://atkmedia.allticket.com/assets/content/99991/2390011012566TicketCard.jpg"
 			alt="NCT"
 		/>
-	</div>
-	<div><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></div>
-	<div><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></div>
-	<div><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></div>
-	<div><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></div>
-	<div><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></div>
+	</a>
+	<a href="/wrong"><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></a>
+	<a href="/wrong"><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></a>
+	<a href="/wrong"><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></a>
+	<a href="/wrong"><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></a>
+	<a href="/wrong"><img class="object-cover" src="https://baconmockup.com/410/600" alt="" /></a>
 </div>
