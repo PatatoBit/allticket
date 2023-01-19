@@ -4,6 +4,10 @@
 	import Shows from '../components/Shows.svelte';
 </script>
 
+<svete:head>
+	<title>Tall Aicket</title>
+</svete:head>
+
 <main class="flex flex-col justify center w-full min-h-screen">
 	<Navbar />
 	<Images />
