@@ -12,7 +12,7 @@
 	<Navbar />
 	<Images />
 
-	<div class="md:mx-60">
+	<div class="lg:mx-60">
 		<Shows />
 	</div>
 </main>
