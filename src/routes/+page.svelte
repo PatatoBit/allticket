@@ -4,9 +4,9 @@
 	import Shows from '../components/Shows.svelte';
 </script>
 
-<svete:head>
-	<title>Tall Aicket</title>
-</svete:head>
+<svelte:head>
+	<title>เบคอน | Home</title>
+</svelte:head>
 
 <main class="flex flex-col items-center w-full min-h-screen">
 	<Navbar />
