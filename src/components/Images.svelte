@@ -1,15 +1,15 @@
 <div class="carousel w-full">
 	<div id="item1" class="carousel-item w-full">
-		<img src="https://placeimg.com/800/200/arch" alt="some random image" class="w-full" />
+		<img src="https://baconmockup.com/1600/400" alt="some random image" class="w-full" />
 	</div>
 	<div id="item2" class="carousel-item w-full">
-		<img src="https://placeimg.com/800/200/arch" alt="some random image" class="w-full" />
+		<img src="https://baconmockup.com/1600/400" alt="some random image" class="w-full" />
 	</div>
 	<div id="item3" class="carousel-item w-full">
-		<img src="https://placeimg.com/800/200/arch" alt="some random image" class="w-full" />
+		<img src="https://baconmockup.com/1600/400" alt="some random image" class="w-full" />
 	</div>
 	<div id="item4" class="carousel-item w-full">
-		<img src="https://placeimg.com/800/200/arch" alt="some random image" class="w-full" />
+		<img src="https://baconmockup.com/1600/400" alt="some random image" class="w-full" />
 	</div>
 </div>
 <div class="flex justify-center w-full py-2 gap-2">
