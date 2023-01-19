@@ -8,11 +8,11 @@
 	<title>Tall Aicket</title>
 </svete:head>
 
-<main class="flex flex-col justify center w-full min-h-screen">
+<main class="flex flex-col items-center w-full min-h-screen">
 	<Navbar />
 	<Images />
 
-	<div class="lg:mx-60">
+	<div class="max-w-4xl">
 		<Shows />
 	</div>
 </main>

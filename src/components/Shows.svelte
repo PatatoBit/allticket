@@ -8,7 +8,7 @@
 </div>
 
 <!-- Shows -->
-<div class="grid grid-cols-2 sm:grid-cols-6 gap-4 p-4">
+<div class="grid grid-cols-2 md:grid-cols-6 gap-4 p-4">
 	<div>
 		<img
 			src="https://atkmedia.allticket.com/assets/content/99991/2390011012566TicketCard.jpg"
