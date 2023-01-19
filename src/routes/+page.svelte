@@ -12,7 +12,7 @@
 	<Navbar />
 	<Images />
 
-	<div class="max-w-4xl">
+	<div class="max-w-6xl">
 		<Shows />
 	</div>
 </main>
