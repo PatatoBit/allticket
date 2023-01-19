@@ -12,7 +12,7 @@
 	<Navbar />
 	<Images />
 
-	<div class="max-w-6xl">
+	<div class="lg:max-w-5xl max-w-2xl">
 		<Shows />
 	</div>
 </main>
