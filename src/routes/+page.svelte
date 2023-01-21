@@ -1,7 +1,7 @@
 <script lang="ts">
-	import Images from '../components/Images.svelte';
-	import Navbar from '../components/Navbar.svelte';
-	import Shows from '../components/Shows.svelte';
+	import Images from '../lib/components/Images.svelte';
+	import Navbar from '../lib/components/Navbar.svelte';
+	import Shows from '../lib/components/Shows.svelte';
 </script>
 
 <svelte:head>
@@ -9,7 +9,6 @@
 </svelte:head>
 
 <main class="flex flex-col items-center w-full min-h-screen">
-	<Navbar />
 	<Images />
 
 	<div class="lg:max-w-5xl max-w-2xl">

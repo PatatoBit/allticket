@@ -1,4 +1,5 @@
 <script>
+	import Navbar from '../lib/components/Navbar.svelte';
 	import '../styles/global.css';
 </script>
 
@@ -21,4 +22,5 @@
 	<title>หมูเบคอน - Home</title>
 </svete:head>
 
+<Navbar />
 <slot />
